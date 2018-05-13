@@ -25,6 +25,8 @@ sidenav:
   - text: Using Federalist
     href: /pages/using-federalist/
     subfolderitems:
+      - text: Getting started
+        href: /pages/using-federalist/getting-started/
       - text: Builds and previews
         href: /pages/using-federalist/previews/
       - text: Customer responsibilities
